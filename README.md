@@ -7,7 +7,7 @@ git document
 ######  2 named  bug
 ######  3 named  feature
 
-####how to create a new branch
+#### how to create a new branch
 >just do it like this:<code>git branch "branchname"</code>,then a new branch is created ,you can 
 >find it by using this command:git branch ,then you can get it; so easy
 #### how to delete a branch of useless
